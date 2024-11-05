@@ -1,0 +1,6 @@
+@BidOneSimpleFormApi_Kevin_HostAddress = http://localhost:5114
+
+GET {{BidOneSimpleFormApi_Kevin_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
